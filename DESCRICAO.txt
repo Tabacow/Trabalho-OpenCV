@@ -1,3 +1,4 @@
+PEGUE O LINK DO VIDEO https://youtu.be/2EN6P3Z-t-A
 
 O projeto tem intenção de automatizar o jogo CryptoBomb
 
@@ -47,8 +48,9 @@ na classe Controller nós temos tudo responsável por controlar clicks de mouse 
 
 
 
-
 Obrigado por aceitar nosso trabalho mestre!
 Ainda existem melhorias para serem feita no loop de gameplay, mas com o tempo nós iremos
-atualizar o bot para tirar maior proveito dele! >:) 
-ASSISTA O VIDEO QUE EU BOTEI NA PASTA TBM! TEM UM TRECHO DO BOT EM AÇÃO
+atualizar o bot para tirar maior proveito dele! >:)
+
+PEGUE O LINK DO VIDEO https://youtu.be/2EN6P3Z-t-A
+
